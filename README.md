@@ -1,2 +1,2 @@
 # hello-world
-Write a short description
+Esto es una descripción corta.
